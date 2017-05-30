@@ -16,7 +16,7 @@ In order to play this game you need python v(3.4.4) and the corresponding Pygame
     <li>Zombies</li>
     <li>SilverFish</li>
   </ul>
-  <li>Falling off the map does not harm you, but it will respawn you</li>
+  <li>Falling off the map does not harm you</li>
   <li>The flag is the end of a level</li>
   <li>The Golden Apple is invincibility</li>
   <li>Rotten Flesh lowers your max hearts</li>  
