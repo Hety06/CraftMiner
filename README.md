@@ -4,7 +4,8 @@
 
 In order to play this game you need python v(3.4.4) and the corresponding Pygame version. After having downloaded these files and the Zip file, you will need to double click on the python file named 'game'.
 
-<img src="
+<img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss1.png">
+<img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss2.png">
 
 ### Markdown
 
