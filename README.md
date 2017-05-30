@@ -25,5 +25,5 @@ In order to play this game you need python v(3.4.4) and the corresponding Pygame
 
 ### Screenshots
 
-![Screen shot 1](resourses/ss1.png)
-![Screen shot 2](resourses/ss2.png)
+![Screen shot 1](pygame-platformer-master/resourses/ss1.png)
+![Screen shot 2](pygame-platformer-master/resourses/ss2.png)
