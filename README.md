@@ -2,7 +2,24 @@
 
 <a href="https://github.com/Hety06/CraftMiner/archive/master.zip" class="btn btn-github"><span class="icon"></span>Download Zip</a>
 
-In order to play this game you need python v(3.4.4) and the corresponding Pygame version. After having downloaded these files and the Zip file, you will need to double click on the python file named 'game'.
+<p>In order to play this game you need python v(3.4.4) and the corresponding Pygame version. After having downloaded these files and the Zip file, you will need to double click on the python file named 'game'.</p>
+
+<h2>Rules</h2>
+
+<ul>
+  <li>Use the arrow keys to move and space to jump.</li>
+  <li>Watch out for the enemies like</li>
+  <li>Creepers</li>
+  <li>Spiders</li>
+  <li>Zombies</li>
+  <li>SilverFish</li>
+</ul>  
+
+
+
+
+
+
 
 <img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss1.png">
 <img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss2.png">
