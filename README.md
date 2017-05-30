@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CraftMiner!
 
-You can use the [editor on GitHub](https://github.com/Hety06/Platformer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+<a href="https://github.com/Hety06/CraftMiner/archive/master.zip" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
