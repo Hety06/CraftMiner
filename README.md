@@ -25,7 +25,6 @@ In order to play this game you need python v(3.4.4) and the corresponding Pygame
 
 ### Screenshots
 
-```markdown
 <img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss1.png">
 <img src="https://github.com/Hety06/CraftMiner/blob/master/pygame-platformer-master/resourses/ss2.png">
-```
+
