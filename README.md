@@ -1,8 +1,10 @@
 ## Welcome to CraftMiner!
 
-<a href="https://github.com/Hety06/CraftMiner/archive/master.zip" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+<a href="https://github.com/Hety06/CraftMiner/archive/master.zip" class="btn btn-github"><span class="icon"></span>Download Zip</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In order to play this game you need python v(3.4.4) and the corresponding Pygame version. After having downloaded these files and the Zip file, you will need to double click on the python file named 'game'.
+
+<img src="
 
 ### Markdown
 
