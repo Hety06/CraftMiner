@@ -1,0 +1,44 @@
+{
+	"name": "World 1",
+	"width": 30,
+	"height": 10,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/lava.png",
+	"background-position": "top",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/lava.png",
+	"scenery-position": "middle",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"foreground-img": "assets/backgrounds/lava.png",
+	"foreground-position": "bottom",
+	"foreground-repeat-x": 1,
+	"foreground-fill-y": 1,
+	"music": "assets/sounds/wyver9_Arcade Level(8-bit).WAV",
+	"start": [15, 3],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [],
+
+
+ 	"backwood": [],
+	"backstone": [],
+ 	"fake": [],
+  "flesh": [],
+ 	"lava":[],
+
+ 	"fall_enemies": [],
+
+ 	"no_fall_enemies": [],
+
+  "coins": [],
+
+ 	"fakecoins": [],
+
+ 	"oneups": [],
+ 	"hearts": [],
+ 	"flag": [],
+ 	"invinc": [],
+ 	"gems": []
+}
