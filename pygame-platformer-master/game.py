@@ -29,7 +29,8 @@ JUMP = pygame.K_SPACE
 # Levels
 levels = ["levels/world-1.json",
           "levels/world-2.json",
-          "levels/world-3.json"]
+          "levels/world-3.json",
+	  "levels/world-4.json"]
 
 # Colors
 TRANSPARENT = (0, 0, 0, 0)
