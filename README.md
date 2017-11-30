@@ -9,13 +9,13 @@ In order to play this game you need python v(3.4.4) and the corresponding Pygame
 <ul>
   <li>Use the arrow keys to move and space to jump</li>
   <li>Watch out for the enemies like</li>
-  <li>You cannot kill the enemies</li>
   <ul>
     <li>Creepers</li>
     <li>Spiders</li>
     <li>Zombies</li>
     <li>SilverFish</li>
   </ul>
+  <li>You cannot kill these enemies</li>
   <li>Falling off the map does not harm you</li>
   <li>The flag is the end of a level</li>
   <li>The Golden Apple is invincibility</li>
